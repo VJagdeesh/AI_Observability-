@@ -1,0 +1,11 @@
+{
+  "name": "info-cli",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "info": "./bin/info.js"
+  },
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
